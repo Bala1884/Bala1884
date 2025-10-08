@@ -62,7 +62,7 @@ Git • Docker • VS Code • Postman • Figma
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/balamurugan-r-74612b263)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Bala1884)  
-[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shakthibala1884@example.com)
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:shakthibala1884@gmail.com)
 
 ---
 
